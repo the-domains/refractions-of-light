@@ -1,0 +1,14 @@
+layout_spectrum: 0.06406296254135668
+typography_spectrum: 0.21163398260250688
+color:
+  brandStrength: 0.6009759451262653
+  lightness: 0.5005796866025776
+  saturation: 0.3446233971044421
+  rhythmicContrast: 0.6318267621099949
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: refractions of light
